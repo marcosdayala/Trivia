@@ -1,0 +1,80 @@
+.container_progress {
+  position: absolute;
+  color: var(--purple-color);
+  top: 0;
+  z-index: 20;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 23px;
+  font-size: var(--h3-font-size);
+  transition: 1s;
+  transform: translateY(0px);
+}
+
+.container_progress::before {
+  content: '';
+  top: 0;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 40px;
+  background-color: var(--purple-dark2-color);
+}
+
+.container_progress::after {
+  content: '';
+  top: 0;
+  z-index: -2;
+  width: 200px;
+  height: 60px;
+  background-color: var(--purple-dark2-color);
+  position: absolute;
+  border-radius: 55px;
+}
+
+.progress {
+  left: 0;
+  height: 15px;
+  background-color: var(--green-color);
+  position: absolute;
+  top: 0;
+  transition: 1.5s;
+}
+
+.progress::before {
+  content: '';
+  left: 0;
+  width: 2500px;
+  height: 15px;
+  background-color: var(--purple-dark-color);
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+
+@media screen and (max-width: 340px) {
+  .container_progress {
+    font-size: var(--normal-font-size);
+    padding-top: 25px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .container_progress::after {
+    width: 250px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .container_progress::after {
+    width: 250px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container_progress::after {
+    width: 250px;
+  }
+}

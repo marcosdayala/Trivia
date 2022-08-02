@@ -1,0 +1,130 @@
+[
+    [
+        {
+            "id": 0,
+            "quest": "¿Cómo se llama la calle donde vive la familia Dursley? Harry Potter (2001)",
+            "options": ["13 Grimmauld Place", "25 Magnolia Crescent", "4 Privet Drive", "13 Fill Street"],
+            "answer": "4 Privet Drive"
+        },
+        {
+            "id": 1,
+            "quest": "¿Cómo se llama el papel que realiza Al Pacino en Scarface (1983)?",
+            "options": ["Alfonso Montana","Tony Montana","Toño Montana","Antonio Montana"],
+            "answer": "Antonio Montana"
+        },
+        {
+            "id": 2,
+            "quest": "¿Quién es la mente maestra detrás de Stranger Things? (2016)",
+            "options": ["Vince Gilligan","Brian Yorkey ","Los hermanos Duffer","Armando Casas"],
+            "answer": "Los hermanos Duffer"
+        },
+        {
+            "id": 3,
+            "quest": "¿Cómo se llama el personaje que interpreta Helena Bonham Carter en el Club de la Pelea (1999)?",
+            "options": ["Delia", "Freda", "Marla", "Nadia"],
+            "answer": "Marla"
+        },
+        {
+            "id": 4,
+            "quest": "¿Qué modelo es el auto donde Marty y Doc viajan en el tiempo en Volver al futuro (1985)?",
+            "options": ["Mustang", "Delorean", "Honda", "Tesla"],
+            "answer": "Delorean"
+        }
+    ],
+    [
+        {
+            "id": 0,
+            "quest": "¿Cuál fue primero?",
+            "options": ["Pac-man", "Tetris", "Pong", "Pepsiman"],
+            "answer": "Pong"
+        },
+        {
+            "id": 1,
+            "quest": "¿Cómo se llama el protagonista de Bully (2006)",
+            "options": ["Niko Bellic","James Hopkins","Carl Johnson","Fernando alonso"],
+            "answer": "James Hopkins"
+        },
+        {
+            "id": 2,
+            "quest": "En que año fue el lanzamiento oficial de PlayStation 2",
+            "options": ["2001","1999","2005","1995"],
+            "answer": "1999"
+        },
+        {
+            "id": 3,
+            "quest": "¿Cuál de estas consolas pertenece a la compañía Microsoft?",
+            "options": ["PS4", "Xbox One", "Nintendo Switch", "Atari"],
+            "answer": "Xbox One"
+        },
+        {
+            "id": 4,
+            "quest": "¿Quién es el hermano de Mario Bros?",
+            "options": ["Luigi", "Wario", "Toad", "Pepe"],
+            "answer": "Luigi"
+        }
+    ],
+    [
+        {
+            "id": 0,
+            "quest": "¿Quién es el máximo anotador de la historia de los Playoffs?",
+            "options": ["Tim Duncan", "Kobe Bryant", "LeBron James", "Michael Jordan"],
+            "answer": "LeBron James"
+        },
+        {
+            "id": 1,
+            "quest": "Klay Thompson posee el récord de más puntos anotados en un cuarto. ¿Cuántos metió?",
+            "options": ["28","33","37","40"],
+            "answer": "37"
+        },
+        {
+            "id": 2,
+            "quest": "¿Quién anotó más puntos en una edición del All-Star Game?",
+            "options": ["Anthony Davis","Stephen Curry","Paul George","Larry Bird"],
+            "answer": "Anthony Davis"
+        },
+        {
+            "id": 3,
+            "quest": "¿Quién fue el máximo anotador de San Antonio Spurs en las Finales de 2014?",
+            "options": ["Tony Parker", "Tim Duncan", "Kawhi Leornard", "Manu Ginóbili"],
+            "answer": "Tony Parker"
+        },
+        {
+            "id": 4,
+            "quest": "¿Cuál es el récord de triples por un jugador en un partido NBA?",
+            "options": ["12", "16", "13", "14"],
+            "answer": "14"
+        }
+    ],
+    [
+        {
+            "id": 0,
+            "quest": "Bohemian Rhapsody es de la banda…",
+            "options": ["Queen", "Led Zeppelin", "The Beatles", "The Cure"],
+            "answer": "Queen"
+        },
+        {
+            "id": 1,
+            "quest": "¿Cuál fue la canción más exitosa de Michael Jackson?",
+            "options": ["Say Say Say","Billie Jean","Thriller","Don’t stop til get enough"],
+            "answer": "Say Say Say"
+        },
+        {
+            "id": 2,
+            "quest": "¿Cuándo salio Take On me del grupo A-ha?",
+            "options": ["1981","1985","1982","1990"],
+            "answer": "1985"
+        },
+        {
+            "id": 3,
+            "quest": "Boys Don't Cry es de...",
+            "options": ["la vida boheme", "The Cure", "The 1975", "Coldplay"],
+            "answer": "The Cure"
+        },
+        {
+            "id": 4,
+            "quest": "De que país es el duo Daft Punk",
+            "options": ["Venezuela", "Francia", "Estados Unidos", "Brazil"],
+            "answer": "Francia"
+        }
+    ]
+]

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  width: 100%;
+  height: 100%;
+  /* background: rgb(109,98,187); */
+  background: linear-gradient(180deg, rgba(109,98,187,1) 0%, rgba(150,136,242,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*=== BASE ===*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*=== VARIABLES CSS ===*/
+
+:root {
+
+  --color: #c1b9f7;
+
+  /*=== Colors ===*/
+  --purple-color: #9688F2;
+  --purple-dark-color: #6D62BB;
+  --purple-dark2-color: #474073;
+  --purple-dark-text: #282346;
+  --blue-color: #7FB0F9;
+  --green-color: #6AD991;
+  --red-color: #F2433D;
+  --green-light-color: #65E6DB;
+  --green-dark-color: #4fb8af;
+  --pink-color: #D27FF9;
+  --white-color: #F2F2F2;
+
+  /*========== Font and typography ==========*/
+  --biggest-font-size: 8rem;
+  --bigger-font-size: 3.5rem;
+  --big-font-size: 3rem;
+  --media-big-font-size: 2.5rem;
+  --h2-font2-size: 2.1rem;
+  --h2-font-size: 2rem;
+  --h3-font-size: 1.4rem;
+  --normal-font-size: 1.2rem;
+  --small-font-size: .813rem;
+  --smaller-font-size: .75rem;
+  --text-line-height: 2rem;
+
+  --transition: 1.2s; 
+}
